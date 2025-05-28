@@ -40,18 +40,6 @@ All done using **pure HTML, CSS, and JavaScript** — no external libraries or f
 ├── strip.js                # Canvas logic and color options
 └── README.md               # This file
 
-## 📸 Screenshots
-### 🏠 Landing Page
-![Landing Page](photobooth_photos/Home.png)
-
-### 📷 Camera Interface  
-![Camera](photobooth_photos/working.png)
-
-### 🖼️ Photo Strip Generating 
-![Strip Preview](photobooth_photos/strip.png)
-
-### Photo Strip && download
-![Strip Preview](photobooth_photos/strip_editing.png)
 
 Inspiration
 Inspired by vintage photo booths and the joy of capturing real-time memories with aesthetic vibes — all built using only core web technologies.
